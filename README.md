@@ -8,8 +8,9 @@ Download the files and open the launcher
 ## Step 2: Download All the files in the Lesson files
 Download all the files from the [Lesson files](./Lesson%20Files/)  
 ## Step 3: Follow the Lesson pace on lesson 1 and 2
-## Step 4: Go at your own pace
-Go through and follow the instructions in Lesson 3 - 7  
+## Step 4: Lesson 3 - 7  
+These Lessons are to be done at your own pace.
+After each lesson, notify one of us and we will ensure that you have done the exercise correctly
 ## Step 5: Prepare for the Competition
 You can make your own modification to your robot and complete your code in prepareration for the competition  
 The map for the competition is as follows:  
