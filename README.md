@@ -10,7 +10,7 @@ Download all the files in [Lesson files](./Lesson%20Files/)
 OR  
 Download the entire repositry as a zip file and unzip it.
 ## Step 3: lesson 1 and 2
-Open the Files downloaded
+Open the Files downloaded  
 Follow the Lesson pace and slides.
 ## Step 4: Lesson 3 - 7  
 These Lessons are to be done at your own pace.
