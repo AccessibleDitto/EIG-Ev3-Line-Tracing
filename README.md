@@ -6,7 +6,9 @@ Download the App through this link:
 https://education.lego.com/en-us/downloads/mindstorms-ev3/software/  
 Download the files and open the launcher  
 ## Step 2: Download All the files in the Lesson files
-Download all the files from the [Lesson files](./Lesson%20Files/)  
+Download all the files in [Lesson files](./Lesson%20Files/)  
+OR  
+Download the entire repositry as a zip file and unzip it
 ## Step 3: Follow the Lesson pace on lesson 1 and 2
 ## Step 4: Lesson 3 - 7  
 These Lessons are to be done at your own pace.
