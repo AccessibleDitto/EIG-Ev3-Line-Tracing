@@ -21,8 +21,22 @@ After each lesson, notify one of us and we will ensure that you have done the ex
 After completing all 7 lessons, you are able to continue to this section  
 You may make your own modification to your robot and complete your code in prepareration for the competition  
 The Goal of this competition is to reach either end zone while completing objectives along the way.  
-The map for the competition is as follows:  
+The Map for the Competition is as follows:  
 ![Map for EV3 Line Tracing Competition](./Map.png/)
+## Zone and Indicators Descriptions
+
+| Zone                | Condition for Validity                                              |
+| ------------------- | ------------------------------------------------------------------- |
+| Start Zones 1 and 2 | Robot must be fully within the start zone before beginning          |
+| End Zones 1 and 2   | Robot and all bricks must be fully inside the green zone for points |
+| Colored Bricks      | Placed in the same location after each try, per competition map     |
+| Colored Indicators  | Unlabeled colored squares on the map, their use is up to the individual teams to interpret and decide|
+| Barrier             | Physical barrier; collision results in a restart                    |
+| Black Box           | Rectangular box marked with black tape or paper                     |
+
+## Notes For Map
+- **Barriers**: These are the only physical barriers on the map.
+- **All other indicators on the map** are purely **2D** and **are to be used to help your robot navigate through the map**
 
 ## Scoring Breakdown
 | Task                          | Points if within 4 minutes | Points if within 2 minutes |
@@ -37,7 +51,7 @@ The map for the competition is as follows:
 | Blue        | 2            | 2               |
 | Black       | 1            | -5 (if touched) |
 
-### Deviating from Line Without Indication
+### Deviating from Line Without Indication (e.g., Hard Coding Without Clear Signals)
 - Restart the robot on the next try.
 - No points would be awarded for the current attempt.
 ---
@@ -52,5 +66,3 @@ The map for the competition is as follows:
 ---
 
 **Ensure all rules are clearly understood before the competition begins. Good luck!**
-
-## Enjoy and Have Fun!
