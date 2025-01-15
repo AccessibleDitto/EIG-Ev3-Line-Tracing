@@ -28,7 +28,7 @@ The Map for the Competition is as follows:
 | Zone                | Condition for Validity                                              |
 | ------------------- | ------------------------------------------------------------------- |
 | Start Zones 1 and 2 | Robot must be fully within the start zone before beginning          |
-| End Zones 1 and 2   | Robot and all bricks must be fully inside the green zone for points |
+| End Zones 1 and 2   | All bricks must be fully inside the green zone for points, Robot has to be 50% in the End zone for it to count |
 | Colored Bricks      | Placed in the same location after each try, per competition map     |
 | Colored Indicators  | Unlabeled colored squares on the map, their use is up to the individual teams to interpret and decide|
 | Barrier             | Physical barrier; collision results in a restart                    |
