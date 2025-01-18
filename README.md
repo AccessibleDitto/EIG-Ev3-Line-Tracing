@@ -61,7 +61,7 @@ The Map for the Competition is as follows:
 - **Brick Placement:** Colored bricks must be fully in the end zone for points to be awarded.
 - **Track Rules:** The robot is not allowed to re-enter a section of the track it has already crossed. Doing so will result in **automatic disqualification**.
 - **Time Limit:** If the robot does not reach the end zone within **5 minutes**, the attempt is disqualified.
-- **Attempts Allowed:** Each team is given a maximum of **2 tries**. The higher scoring attempt will be recorded.
+- **Attempts Allowed:** Each team is given a maximum of **5 tries**. The higher scoring attempt will be recorded.
 - **End Zone**: Once the robot stops in a endzone, **the run is considered to have ended**.
 ---
 
