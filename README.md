@@ -9,7 +9,7 @@ Download the files and open the launcher.
 Download all the files in [Lesson files](./Lesson%20Files/)  
 OR  
 Download the entire repositry as a zip file and unzip it.
-## Step 3: lesson 1 and 2
+## Step 3: Lesson 1 and 2
 Open the Files downloaded  
 Follow the Lesson pace and slides.
 ## Step 4: Lesson 3 - 7  
@@ -37,6 +37,7 @@ The Map for the Competition is as follows:
 ## Notes For Map
 - **Barriers**: These are the only physical barriers on the map.
 - **All other indicators on the map** are purely **2D** and **are to be used to help your robot navigate through the map**
+- You are not allowed to go over the same line twice
 
 ## Scoring Breakdown
 | Task                          | Points if within 2 minutes | Points if within 1 minutes |
