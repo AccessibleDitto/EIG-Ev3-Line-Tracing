@@ -39,7 +39,7 @@ The Map for the Competition is as follows:
 - **All other indicators on the map** are purely **2D** and **are to be used to help your robot navigate through the map**
 
 ## Scoring Breakdown
-| Task                          | Points if within 4 minutes | Points if within 2 minutes |
+| Task                          | Points if within 2 minutes | Points if within 1 minutes |
 |-------------------------------|----------------------------|----------------------------|
 | Reaching and Stopping Within End Goal 1          | 5                          | 15                         |
 | Reaching and Stopping Within End Goal 2          | 10                         | 35                         |
